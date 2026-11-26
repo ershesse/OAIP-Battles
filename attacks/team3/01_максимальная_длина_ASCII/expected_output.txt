@@ -1,0 +1,6 @@
+Hammer0 Hammer0 Hammer0 Hammer;1000;0.25;1
+Screwdriver1 Screwdriver1 Scre;1007;0.50;2
+Cable2 Cable2 Cable2 Cable2 Ca;1014;0.75;3
+Bolt3 Bolt3 Bolt3 Bolt3 Bolt3B;1021;1.00;4
+Lamp4 Lamp4 Lamp4 Lamp4 Lamp4L;1028;1.25;5
+Общая стоимость: 13.75
