@@ -1,0 +1,8 @@
+Cable7 Cable7 Cable7 Cable7 Cable7 Cable;23;1.75;0;1.75
+Screwdriver6 Screwdriver6 Screwdriver6 S;22;4.50;6;1.50
+Hammer5 Hammer5 Hammer5 Hammer5 Hammer5H;21;3.75;5;1.25
+Lamp4 Lamp4 Lamp4 Lamp4 Lamp4 Lamp4 Lamp;20;3.00;4;1.00
+Bolt3 Bolt3 Bolt3 Bolt3 Bolt3 Bolt3 Bolt;19;2.25;3;0.75
+Cable2 Cable2 Cable2 Cable2 Cable2 Cable;18;1.50;2;0.50
+Screwdriver1 Screwdriver1 Screwdriver1 S;17;0.75;1;0.25
+Hammer0 Hammer0 Hammer0 Hammer0 Hammer0H;16;0.00;0;0.00
