@@ -1,0 +1,5 @@
+Lamp4 Lamp4 Lamp4 Lamp4 Lamp4 Lamp4 Lamp;678004;7.55;4
+Bolt3 Bolt3 Bolt3 Bolt3 Bolt3 Bolt3 Bolt;678003;7.54;3
+Cable2 Cable2 Cable2 Cable2 Cable2 Cable;678002;7.53;2
+Screwdriver1 Screwdriver1 Screwdriver1 S;678001;7.52;1
+Hammer0 Hammer0 Hammer0 Hammer0 Hammer0H;678000;7.51;0
